@@ -1,0 +1,14 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+      "UMBRACO_GRAPHQL_BASE_URL": "https://graphql.umbraco.io",
+      "UMBRACO_PROJECT_ALIAS": "dev-dis-chem-digital",
+      "UMBRACO_API_KEY": "bLzVkacHKowKtrT99Znv",
+      "SALES_LAYER_BASE_URL":"https://dischemtest.apimanagement.eu2.hana.ondemand.com:443/",
+      "SALES_LAYER_API_KEY":"gFCGbLO61RAHT5GkEDFUCITUcSqcMsKI",
+      "SALES_LAYER_AUTH":"Basic U1VfVEFMRU5EX0VUTDpTVUBUYWwzbmQzVEw1Mjk1NjI2"
+    }
+  }
+  
